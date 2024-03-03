@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\ENTREGABLE 1\punto2\obj\Debug\net8.0\punto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ENTREGABLE 1\punto2\obj\Debug\net8.0\punto2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ENTREGABLE 1\punto2\obj\Debug\net8.0\punto2.AssemblyInfo.cs
+C:\Users\user\Desktop\ENTREGABLE 1\punto2\obj\Debug\net8.0\punto2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ENTREGABLE 1\punto2\bin\Debug\net8.0\punto2.exe
+C:\Users\user\Desktop\ENTREGABLE 1\punto2\bin\Debug\net8.0\punto2.deps.json
+C:\Users\user\Desktop\ENTREGABLE 1\punto2\bin\Debug\net8.0\punto2.runtimeconfig.json
+C:\Users\user\Desktop\ENTREGABLE 1\punto2\bin\Debug\net8.0\punto2.dll
+C:\Users\user\Desktop\ENTREGABLE 1\punto2\bin\Debug\net8.0\punto2.pdb
+C:\Users\user\Desktop\ENTREGABLE 1\punto2\obj\Debug\net8.0\punto2.dll
+C:\Users\user\Desktop\ENTREGABLE 1\punto2\obj\Debug\net8.0\refint\punto2.dll
+C:\Users\user\Desktop\ENTREGABLE 1\punto2\obj\Debug\net8.0\punto2.pdb
+C:\Users\user\Desktop\ENTREGABLE 1\punto2\obj\Debug\net8.0\punto2.genruntimeconfig.cache
+C:\Users\user\Desktop\ENTREGABLE 1\punto2\obj\Debug\net8.0\ref\punto2.dll
