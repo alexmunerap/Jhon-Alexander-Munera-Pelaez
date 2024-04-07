@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\ENTREGABLE2\basquet\bin\Debug\net8.0\basquet.exe
+C:\Users\user\Desktop\ENTREGABLE2\basquet\bin\Debug\net8.0\basquet.deps.json
+C:\Users\user\Desktop\ENTREGABLE2\basquet\bin\Debug\net8.0\basquet.runtimeconfig.json
+C:\Users\user\Desktop\ENTREGABLE2\basquet\bin\Debug\net8.0\basquet.dll
+C:\Users\user\Desktop\ENTREGABLE2\basquet\bin\Debug\net8.0\basquet.pdb
+C:\Users\user\Desktop\ENTREGABLE2\basquet\obj\Debug\net8.0\basquet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ENTREGABLE2\basquet\obj\Debug\net8.0\basquet.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ENTREGABLE2\basquet\obj\Debug\net8.0\basquet.AssemblyInfo.cs
+C:\Users\user\Desktop\ENTREGABLE2\basquet\obj\Debug\net8.0\basquet.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ENTREGABLE2\basquet\obj\Debug\net8.0\basquet.dll
+C:\Users\user\Desktop\ENTREGABLE2\basquet\obj\Debug\net8.0\refint\basquet.dll
+C:\Users\user\Desktop\ENTREGABLE2\basquet\obj\Debug\net8.0\basquet.pdb
+C:\Users\user\Desktop\ENTREGABLE2\basquet\obj\Debug\net8.0\basquet.genruntimeconfig.cache
+C:\Users\user\Desktop\ENTREGABLE2\basquet\obj\Debug\net8.0\ref\basquet.dll
