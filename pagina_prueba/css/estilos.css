@@ -1,0 +1,19 @@
+.carousel-item {
+    position: Center;
+    width: 1500px;
+    height: 600px;
+  }
+  
+  .carousel-item img {
+    margin: 0 auto;
+  }
+
+  #galeria{
+    width: 200px;
+    height: 250px;
+  }
+  #logo{
+    width: 50px;
+    height: 50px;
+  }
+  
